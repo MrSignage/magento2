@@ -16,7 +16,7 @@ Php bin/magento setup:upgrade
 Php bin/magento cache:clean
 ```
 
-## usage
+## Usage
 There are 2 options to show the products on your screen, the first option is to show all products form a certain category. The other option is to select each product.
 
 To change the shown products navigate to MrSignage -> manage catalog. Here you can choose if you want to show a Category or Products.
